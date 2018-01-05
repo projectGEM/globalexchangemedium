@@ -1,0 +1,9 @@
+Building GlobalExchangeMedium
+
+See doc/readme-qt.rst for instructions on building GlobalExchangeMedium QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GlobalExchangeMedium.
+
+See doc/build-*.txt for instructions on building globalexchangemediumd,
+the intended-for-services, no-graphical-interface, reference
+implementation of GlobalExchangeMedium.
